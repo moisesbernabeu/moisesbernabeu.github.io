@@ -32,9 +32,9 @@ order: 2
 
 ## Talks
 ---
-"*M. Bernabeu* and T. Gabaldón
+*M. Bernabeu* and T. Gabaldón
 **Interplay of HGT and targeting during the chromatophore organellogenesis in Paulinella**.
-ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1e1RPlkZNOFAnh0NMpj22C-aUqbf4OqMO)"
+ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1e1RPlkZNOFAnh0NMpj22C-aUqbf4OqMO)
 
 *M. Bernabeu* and T. Gabaldón
 **Paulinella HGT and targeting interplay during the origin of the chromatophore**.
@@ -51,9 +51,9 @@ Jornada de Biologia Evolutiva, June 2022 [<i class='fa fa-file-pdf-o'></i>](http
 
 ## Posters
 ---
-"*M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón
+*M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón
 **Diverse origins of the last eukaryotic common ancestor proteins points to multiple interactions during eukaryogenesis**.
-ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1rwCMihXhQTxO1hFKWcFMDLQxGhzNZKrF)"
+ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1rwCMihXhQTxO1hFKWcFMDLQxGhzNZKrF)
 
 *M. Bernabeu* and T. Gabaldón
 **Relative dating of evolutionary events from gene trees**.
