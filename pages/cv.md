@@ -8,7 +8,6 @@ order: 2
 
 ## Publications
 ---
-
 ### 2024
 *M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024). **On the impact of incomplete taxon sampling on the relative timing of gene transfer events**, PLoS Biology, 22(3) e3002460, [10.1371/journal.pbio.3002460](https://www.doi.org/10.1371/journal.pbio.3002460)\\
 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1JvShztPmVf74qSCTLbaTacUYMSYMg-UZ)
@@ -25,7 +24,7 @@ order: 2
 **Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.04.616067)
 
 *M. Bernabeu*, C. Armero and T. Gabaldón (2024)
-**Probabilistic modelling improves relative dating from gene phylogenies** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.09.30.615760)
+**Probabilistic modelling improves relative dating from gene phylogenies** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.09.30.615760) (Accepted)
 
 *M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón (2024)
 **Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.14.618062)
@@ -33,6 +32,10 @@ order: 2
 
 ## Talks
 ---
+"*M. Bernabeu* and T. Gabaldón
+**Interplay of HGT and targeting during the chromatophore organellogenesis in Paulinella**.
+ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1e1RPlkZNOFAnh0NMpj22C-aUqbf4OqMO)"
+
 *M. Bernabeu* and T. Gabaldón
 **Paulinella HGT and targeting interplay during the origin of the chromatophore**.
 Comparative Genomics of Unicellular Eukaryotes, October 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1l9G-Tamn4xm5iyZwLj5LBW3K6rMBVMrN)
@@ -48,6 +51,10 @@ Jornada de Biologia Evolutiva, June 2022 [<i class='fa fa-file-pdf-o'></i>](http
 
 ## Posters
 ---
+"*M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón
+**Diverse origins of the last eukaryotic common ancestor proteins points to multiple interactions during eukaryogenesis**.
+ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1rwCMihXhQTxO1hFKWcFMDLQxGhzNZKrF)"
+
 *M. Bernabeu* and T. Gabaldón
 **Relative dating of evolutionary events from gene trees**.
 SESBE 2024, January 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=12Eqo40uENx0SbQyxBmsHIINdrmQ2yLRd)
