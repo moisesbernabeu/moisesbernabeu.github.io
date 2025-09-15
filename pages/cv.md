@@ -8,6 +8,15 @@ order: 2
 
 ## Publications
 ---
+### 2025
+*M. Bernabeu*, C. Armero and T. Gabaldón (2025). **Probabilistic modelling improves relative dating from gene phylogenies**, Methods in Ecology and Evolution, 0 45962, [10.1111/2041-210X.70127](https://www.doi.org/10.1111/2041-210X.70127)\\
+[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1OtrUOCxCMlfcDwfEgDfeMCETdeBZFKHW)
+[<i class='fa fa-database'></i>](https://www.doi.org/10.5281/zenodo.16044845)
+[<i class='fa fa-github'></i>](https://github.com/gabaldonlab/brlens)
+
+P. Román-Escrivá, *M. Bernabeu*, E. Paganin, W. Díaz-Villanueva, M. Verdú, J. L. Oliver, V. Arnau and A. Moya (2025). **Metrics of Genomic Complexity in the Evolution of Bacterial Endosymbiosis**, Biology-Basel, 14(4) 338, [10.3390/biology14040338](https://www.doi.org/10.3390/biology14040338)\\
+[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1kkRVtJEabWEXYjMi8YCH9vjn65H0sezO)
+
 ### 2024
 *M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024). **On the impact of incomplete taxon sampling on the relative timing of gene transfer events**, PLoS Biology, 22(3) e3002460, [10.1371/journal.pbio.3002460](https://www.doi.org/10.1371/journal.pbio.3002460)\\
 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1JvShztPmVf74qSCTLbaTacUYMSYMg-UZ)
@@ -22,9 +31,6 @@ order: 2
 ---
 *M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024)
 **Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.04.616067)
-
-*M. Bernabeu*, C. Armero and T. Gabaldón (2024)
-**Probabilistic modelling improves relative dating from gene phylogenies** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.09.30.615760) (Accepted)
 
 *M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón (2024)
 **Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.14.618062)
