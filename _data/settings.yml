@@ -3,10 +3,13 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
+title: 'Moisès Bernabeu'
+
 google-ID: ''
 
 menu:
 - {name: 'CV', url: 'cv'}
+- {name: 'Publications', url: 'publications'}
 - {name: 'Projects', url: 'projects'}
 - {name: 'Resources', url: 'resources'}
 # - {name: 'Interesting Facts',  url: 'facts'}
