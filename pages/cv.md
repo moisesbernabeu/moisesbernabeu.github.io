@@ -5,98 +5,12 @@ permalink: /cv
 order: 2
 ---
 
+I strongly support the declaration of research assessment (**DORA**). It recognises the contributions of researchers by their actual contribution, not by other factors that does not directly depend on us.
 
-## Publications
----
-### 2025
-*M. Bernabeu*, C. Armero and T. Gabaldón (2025). **Probabilistic modelling improves relative dating from gene phylogenies**, Methods in Ecology and Evolution, 0 45962, [10.1111/2041-210X.70127](https://www.doi.org/10.1111/2041-210X.70127)\\
-[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1OtrUOCxCMlfcDwfEgDfeMCETdeBZFKHW)
-[<i class='fa fa-database'></i>](https://www.doi.org/10.5281/zenodo.16044845)
-[<i class='fa fa-github'></i>](https://github.com/gabaldonlab/brlens)
+# Education
+I have a Bachelor's degree in Biology and a Master’s degree in Biostatistics from the Universitat de València (UV). I developed both theses in the field of phylogenetics. I started as a PhD student in September 2023, working on the origin of eukaryotes and the genomics of evolutionary transitions.
 
-P. Román-Escrivá, *M. Bernabeu*, E. Paganin, W. Díaz-Villanueva, M. Verdú, J. L. Oliver, V. Arnau and A. Moya (2025). **Metrics of Genomic Complexity in the Evolution of Bacterial Endosymbiosis**, Biology-Basel, 14(4) 338, [10.3390/biology14040338](https://www.doi.org/10.3390/biology14040338)\\
-[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1kkRVtJEabWEXYjMi8YCH9vjn65H0sezO)
+# Research experience
+During my bachelor’s degree, I collaborated on research projects at the Institute for Integrative Systems Biology (I2SysBio) and the Botanical Garden of the UV. I studied changes in physical complexity during the history of life under the supervision of Prof. Andrés Moya at the I2SysBio. Together with Prof. Josep A. Rosselló, I worked on the co-evolution and selective forces acting on subunits of the earth’s most abundant enzyme (RuBisCO). In this lab I also developed my Bachelor’s thesis on the inference of the deep phylogeny of chloroplasts aiming at reconstructing their endosymbiotic origins. In January 2022 I moved to the Comparative Genomics laboratory led by Toni Gabaldón at the Barcelona Supercomputing Center (BSC) and the Institute for Research in Medicine (IRB). There, I did my Master’s thesis on the Bayesian inference of evolutionary events’ timing using gene phylogenies. Since September 2022 I have been working as a Research Engineer at the Comparative Genomics laboratory. And I am currently working as a PhD student in this lab.
 
-### 2024
-*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024). **On the impact of incomplete taxon sampling on the relative timing of gene transfer events**, PLoS Biology, 22(3) e3002460, [10.1371/journal.pbio.3002460](https://www.doi.org/10.1371/journal.pbio.3002460)\\
-[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1JvShztPmVf74qSCTLbaTacUYMSYMg-UZ)
-[<i class='fa fa-database'></i>](https://www.doi.org/10.5281/zenodo.10252240)
-
-### 2021
-*M. Bernabeu* and J. A. Rosselló (2021). **Molecular Evolution of rbcL in Orthotrichales (Bryophyta): Site Variation, Adaptive Evolution, and Coevolutionary Patterns of Amino Acid Replacements**, Journal of Molecular Evolution, 89(4–5) 225–237, [10.1007/s00239-021-09998-w](https://www.doi.org/10.1007/s00239-021-09998-w)\\
-[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
-
-
-## Preprints
----
-*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024)
-**Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.04.616067)
-
-*M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón (2024)
-**Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.14.618062)
-
-
-## Talks
----
-*M. Bernabeu* and T. Gabaldón
-**Interplay of HGT and targeting during the chromatophore organellogenesis in Paulinella**.
-ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1e1RPlkZNOFAnh0NMpj22C-aUqbf4OqMO)
-
-*M. Bernabeu* and T. Gabaldón
-**Paulinella HGT and targeting interplay during the origin of the chromatophore**.
-Comparative Genomics of Unicellular Eukaryotes, October 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1l9G-Tamn4xm5iyZwLj5LBW3K6rMBVMrN)
-
-*M. Bernabeu* and T. Gabaldón
-**Paulinella gene family evolution reveals the importance of targeting and horizontal gene transfer during organellogenesis**.
-Jornada de Biologia Evolutiva, June 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1iAqNdAoUDy6G0Esv4Vi2rvcbSxb_yqoP)
-
-*M. Bernabeu*, C. Armero and T. Gabaldón
-**Relatively dating evolutionary events using gene phylogenies**.
-Jornada de Biologia Evolutiva, June 2022 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1AktxDhvCs-iuecwcgtFJ0M14Mj7KDjer)
-
-
-## Posters
----
-*M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón
-**Diverse origins of the last eukaryotic common ancestor proteins points to multiple interactions during eukaryogenesis**.
-ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1rwCMihXhQTxO1hFKWcFMDLQxGhzNZKrF)
-
-*M. Bernabeu* and T. Gabaldón
-**Relative dating of evolutionary events from gene trees**.
-SESBE 2024, January 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=12Eqo40uENx0SbQyxBmsHIINdrmQ2yLRd)
-
-*M. Bernabeu* and T. Gabaldón
-**Relative dating of evolutionary events from gene trees**.
-SMBE 2023, July 2023 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1YNSYJBoyLztfcBwlO_Xc3pLk6gY6KAYx)
-
-E. Paganin, P. Román-Escrivá, *M. Bernabeu*, V. Arnau and A. Moya
-**Trends of genome’s complexity metrics in endosymbiont organisms and their free-living counterparts**.
-Congreso Nacional de Genética, June 2023 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/open?id=1AWh6Ha9rmaJoSA5C4WdFG2za8PZeBhkr&usp=drive_copy)
-
-*M. Bernabeu*, C. Armero and T. Gabaldón
-**Branch length ratio method for timing evolutionary events using gene phylogenies**.
-Comparative genomics of unicellular eukaryotes: Interactions and symbioses, September 2022 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1shDp__tPAES3gwUCv8yZ0qHc45cGxgln)
-
-*M. Bernabeu* and A. Moya
-**Complexity trends in prokaryotic to eukaryotic cell transition**.
-VIII Meeting of the SESBE, February 2022 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1L1AoZGBVKKJGmWLJBV_4fVtf22TUxFwt)
-
-*M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
-**Is there a progressive trend in the genomic evolution of Gammaproteobacteria phylum?**.
-1r Congreso latinoamericano de Evolución, November - December 2021 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
-
-*M. Bernabeu*
-**Bayesian phylogenomic inference instability in convergent bacteria**.
-València International Bayesian Analysis Summer School, July 2021 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1XnjuGvYoo0RBy7yY5PsSos7Z6bfC3Lg0)
-
-*M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
-**Complexity metrics trend analysis through endosymbiosis Evolution**.
-Congreso Nacional de Genética, June 2021 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1MqWeN2yESrb3NpWib806DHq0u6dZnsLA)
-
-## Theses
----
-**Bayesian framework for timing evolutionary events using gene phylogenies**.\\
-MSc thesis. Advisors: Toni Gabaldón and Carmen Armero. July, 2022
-
-**Deep phylogenies with single gene through chloroplast Evolution**
-BSc thesis. Advisor: Josep A. Rosselló. July, 2020
+<!-- # Teaching and outreach -->

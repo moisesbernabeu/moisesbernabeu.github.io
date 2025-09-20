@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro
+title: Moisès Bernabeu
 ---
 
 Welcome to my page. I am a PhD student at the Barcelona Supercomputing
