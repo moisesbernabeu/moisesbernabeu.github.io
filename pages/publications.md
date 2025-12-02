@@ -13,7 +13,7 @@ order: 2
 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1IOWH6vsN5Ym9EoZbnADWO4ugYk7u_f1H)
 [<i class='fa fa-github'></i>](https://github.com/Gabaldonlab/ghost_transfers)
 
-*M. Bernabeu*, C. Armero and T. Gabaldón (2025). **Probabilistic modelling improves relative dating from gene phylogenies**, Methods in Ecology and Evolution, 0 45962, [10.1111/2041-210X.70127](https://www.doi.org/10.1111/2041-210X.70127)\\
+*M. Bernabeu*, C. Armero and T. Gabaldón (2025). **Probabilistic modelling improves relative dating from gene phylogenies**, Methods in Ecology and Evolution, 16(10) 2461-2471, [10.1111/2041-210X.70127](https://www.doi.org/10.1111/2041-210X.70127)\\
 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1OtrUOCxCMlfcDwfEgDfeMCETdeBZFKHW)
 [<i class='fa fa-database'></i>](https://www.doi.org/10.5281/zenodo.16044845)
 [<i class='fa fa-github'></i>](https://github.com/gabaldonlab/brlens)
