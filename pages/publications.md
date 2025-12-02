@@ -9,7 +9,7 @@ order: 2
 ## Publications
 ---
 ### 2025
-*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2025). ** Phylogeny-aware Simulations Suggest a Low Impact of Unsampled Lineages in the Inference of Gene Flow During Eukaryogenesis Open Access **, Genome Biology and Evolution, 17(11) evaf190, [10.1093/gbe/evaf190](https://www.doi.org/10.1093/gbe/evaf190)\\
+*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2025). **Phylogeny-aware Simulations Suggest a Low Impact of Unsampled Lineages in the Inference of Gene Flow During Eukaryogenesis**, Genome Biology and Evolution, 17(11) evaf190, [10.1093/gbe/evaf190](https://www.doi.org/10.1093/gbe/evaf190)\\
 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1IOWH6vsN5Ym9EoZbnADWO4ugYk7u_f1H)
 [<i class='fa fa-github'></i>](https://github.com/Gabaldonlab/ghost_transfers)
 
