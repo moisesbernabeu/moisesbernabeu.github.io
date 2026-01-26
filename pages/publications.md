@@ -33,15 +33,16 @@ P. Román-Escrivá, *M. Bernabeu*, E. Paganin, W. Díaz-Villanueva, M. Verdú, J
 
 ## Preprints
 ---
-*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024)
-**Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.04.616067)
-
 *M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón (2024)
 **Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.14.618062)
 
 
 ## Talks
 ---
+*M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón
+**Diverse origins of the ancestral eukaryotic genome reveal multiple interactions during eukaryogenesis**.
+SESBE 2026, January 2026 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1njQLu9I-IiQcQfVvWiQsibSZBdICTZOZ)
+
 *M. Bernabeu* and T. Gabaldón
 **Interplay of HGT and targeting during the chromatophore organellogenesis in Paulinella**.
 ESEB 2025, August 2025 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1e1RPlkZNOFAnh0NMpj22C-aUqbf4OqMO)
